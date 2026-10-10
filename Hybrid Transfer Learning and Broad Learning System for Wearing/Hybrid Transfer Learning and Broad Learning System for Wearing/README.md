@@ -1,5 +1,4 @@
 # Django-Facemask
-## Facemask detection model deployed on Heroku : http://prajvalsudhir-facemask.herokuapp.com/
 <hr>
 
 The backend of the web application is developed with Django and SQLite database
